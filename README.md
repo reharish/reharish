@@ -2,5 +2,5 @@
 
 This is **Harishbabu Rengaraj**  
 
-- 🔭 I’m currently working on (WebProbe)[https://github.com/reharish/WebProbe]
-- 🌱 I’m currently learning ...(GitLab)[https://github.com/gitlabhq/gitlabhq]
+- 🔭 I’m currently working on [WebProbe](https://github.com/rehbarish/WebProbe)
+- 🌱 I’m currently learning ...[GitLab](https://github.com/gitlabhq/gitlabhq)
