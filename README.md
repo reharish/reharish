@@ -11,11 +11,11 @@ I'm Harish, a 23 years old Linux Admin from India.
 
 ## Skills
 - 👨‍💻 Java
-- ⚙️ Shell Script
-- 👁️ Python
+- ⚙️Shell Script
+- 👁️Python
 - 💽 Linux
 
 ## Contact
 - [reharish.github.io/cv](https://reharish.github.io/cv)
 - [@whitedot_off](https://instagram.com/profile/whitehauler_off) on Instagram
-- [ NIL ](./) on Discord
+- [Harishbabu Rengaraj](https://linkedin.com/in/harishbabu-rengaraj) on LinkedIn
