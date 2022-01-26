@@ -6,16 +6,16 @@
 I'm Harish, a 23 years old Linux Admin from India.
 
 - Un-Supervised Learner.
-- 🧭 Founder at [@WhiteHauler](https://github.com/whitehauler)
+- 🧭 Founder at [@WhiteHauler](https://github.com/whitehauler).
 
 
 ## Skills
 - 👨‍💻 Java
-- ⚙️ Shell Script
-- 👁️ Python
+- ⚙️Shell Script
+- 👁️Python
 - 💽 Linux
 
 ## Contact
-- [reharish.github.io/cv](https://reharish.github.io/cv)
-- [@whitedot_off](https://instagram.com/profile/whitehauler_off) on Instagram
-- [ NIL ](./) on Discord
+- [reharish.github.io/cv](https://reharish.github.io/cv) Page
+- [@whitedot_off](https://instagram.com/profile/whitehauler_off) on Instagram.
+- [Harishbabu Rengaraj](https://linkedin.com/in/harishbabu-rengaraj) on LinkedIn.
