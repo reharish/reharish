@@ -19,5 +19,6 @@ I'm Harish, a 23 years old Linux Admin from India.
 - 💽 Linux
 
 ## Contact
-- [reharish.github.io/cv](https://reharish.github.io/cv)
+- [reharish.github.io/cv](https://reharish.github.io/cv) is PortFolio
 - [@whitedot_off](https://instagram.com/profile/whitehauler_off) on Instagram.
+- [Harishbabu Rengaraj](https://in.linkedin.com/in/harishbabu-rengaraj)
