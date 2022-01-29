@@ -3,10 +3,10 @@
 </h1>
 
 ## Hey! 👋
-I'm Harish, a 23 years old Linux Admin from India.
+I'm Harish, A Linux Admin from India.
 
 - Un-Supervised Learner.
-- 🧭 Founder at [@WhiteHauler](https://github.com/whitehauler)
+- 🧭 Maintainer at [@WhiteHauler](https://github.com/whitehauler)
 
 ## Currently
 - **Working** on [WebProbe](https://github.com/reharish/webprobe)
