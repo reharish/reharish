@@ -20,5 +20,5 @@ I'm Harish, A Linux Admin from India.
 
 ## Contact
 - [reharish.github.io/cv](https://reharish.github.io/cv) is PortFolio
-- [@whitedot_off](https://instagram.com/profile/whitehauler_off) on Instagram.
+- [@harish_r_babu](https://twitter.com/harish_r_babu) on twitter.
 - [Harishbabu Rengaraj](https://in.linkedin.com/in/harishbabu-rengaraj) on LinkedIn
