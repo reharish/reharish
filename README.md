@@ -19,6 +19,6 @@ I'm Harish, A Linux Admin.
 
 ## Contact
 - [reharish.github.io/cv](https://reharish.github.io/cv) is PortFolio
-- [@harish_r_babu](https://twitter.com/harish_r_babu) on twitter.
-- [Harishbabu Rengaraj](https://in.linkedin.com/in/harishbabu-rengaraj) on LinkedIn
+- [@whitehauler](https://twitter.com/whitehauler) is twitter.
+- [Harishbabu Rengaraj](https://in.linkedin.com/in/harishbabu-rengaraj) is LinkedIn
 
