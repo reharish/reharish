@@ -26,5 +26,7 @@ I'm Harish, An Linux Admin.
 
 
 ## Badges
-<a href="https://www.hackthebox.eu/profile/330996" target='_blank' ><img src="http://www.hackthebox.eu/badge/image/330996" alt="Hack The Box"></a><a href="https://tryhackme.com/p/whitedot" target='_blank' ><img src="https://tryhackme-badges.s3.amazonaws.com/whitedot.png" alt="TryHackMe"></a><br>
+<img src="http://www.hackthebox.eu/badge/image/330996" alt="Hack The Box" /> <img src="https://tryhackme-badges.s3.amazonaws.com/whitedot.png" alt="TryHackMe">
+<br>
+
 ![stats](https://github-readme-stats.vercel.app/api?username=reharish&show_icons=true&theme=radical)
