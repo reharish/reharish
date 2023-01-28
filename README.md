@@ -1,13 +1,12 @@
 
-## Hello There! 👋
-I'm Harish, An Linux Admin.
+## Hi 👋 I'm Harish
 
 - Un-Supervised Learner.
 - Maintainer at [@WhiteHauler](https://github.com/whitehauler)
 
 ## Currently into
 - **Refurbishing** old projects at [whitehauler](https://github.com/whitehauler)
-- **Studying** [Git](../../../../) 
+- [Git](../../../../) **study** 
 
 ## Practicing
 - TCP/IP Networks
