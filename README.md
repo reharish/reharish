@@ -1,8 +1,4 @@
 
-## Hi 👋 I'm Harish
-
-![stats](https://github-readme-stats.vercel.app/api?username=reharish&show_icons=true&theme=transparent)
-
 ## About me
 - Un-Supervised Learner.
 - Maintainer at [@WhiteHauler](https://github.com/whitehauler)
