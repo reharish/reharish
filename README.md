@@ -16,6 +16,7 @@
 - Python
 - Linux
 - Shell Script
+- yocto
 
 ## Bucket list
 - Learn **golang**
