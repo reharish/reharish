@@ -9,7 +9,8 @@
 
 ## Currently into
 - **Refurbishing** old projects at [whitehauler](https://github.com/whitehauler)
-- [Git](../../../../) **study** 
+- Robot Framework
+- Python
 
 ## Practicing
 - TCP/IP Networks
