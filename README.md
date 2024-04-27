@@ -11,6 +11,8 @@
 - **Refurbishing** old projects at [whitehauler](https://github.com/whitehauler)
 - Robot Framework
 - Python
+- CAN IO
+- AI/ML
 
 ## Practicing
 - TCP/IP Networks
@@ -20,8 +22,7 @@
 - yocto
 
 ## Bucket list
-- Learn **golang**
-- Learn **eBPF**
+- Learn **CAN IO**
 
 ## Contact
 - [reharish.github.io](https://reharish.github.io/cv) is PortFolio
