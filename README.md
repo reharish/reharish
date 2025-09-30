@@ -12,7 +12,7 @@
 - Robot Framework
 - Python
 - CAN IO
-- AI/ML
+- AI Agents
 
 ## Practicing
 - TCP/IP Networks
